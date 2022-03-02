@@ -1,2 +1,2 @@
 # Jupyter
-Repository created for our jupyter notebook and python code
+Repository created for our jupyter notebooks and python code
